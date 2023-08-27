@@ -29,6 +29,7 @@ import tesla from "./company/tesla.png";
 import Blog_web_img1 from "./Blog_web_img1.png";
 import Newsletter_img from "./Newsletter_img.png";
 import product2_img from "./product2_img.png";
+import subhadeep from "./subhadeep.jpeg";
 
 export {
   logo,
@@ -59,4 +60,5 @@ export {
   Blog_web_img1,
   Newsletter_img,
   product2_img,
+  subhadeep,
 };

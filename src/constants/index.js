@@ -22,6 +22,7 @@ import {
     Blog_web_img1,
     Newsletter_img,
     product2_img,
+    subhadeep,
     threejs,
     
   } from "../assets";
@@ -193,7 +194,7 @@ import {
       name: "Subhadeep Supriya",
       designation: "CTO",
       company: "Apple",
-      image: "./subhadeep.jpeg",
+      image: subhadeep,
     },
   ];
   
